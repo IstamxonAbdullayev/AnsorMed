@@ -36,13 +36,14 @@ body {
     color: #222222;
 }
 
-.header-list:hover {
-    color: #DE2E54;
-}
+
 
 .site-header-link {
     color: #222222;
     text-decoration: none;
+}
+.site-header-link:hover {
+    color: #DE2E54;
 }
 
 .header-link {
